@@ -13,3 +13,4 @@ Shell Redirections
 11.script that counts the number of directories and sub-directories in the current directory
 12.script that displays the 10 newest files in the current directory
 13.script that takes a list of words as input and prints only words that appear exactly once
+14.Display lines containing the pattern “root” from the file /etc/passwd
