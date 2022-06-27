@@ -14,3 +14,4 @@ Shell Redirections
 12.script that displays the 10 newest files in the current directory
 13.script that takes a list of words as input and prints only words that appear exactly once
 14.Display lines containing the pattern “root” from the file /etc/passwd
+15.Display the number of lines that contain the pattern “bin” in the file /etc/passwd
